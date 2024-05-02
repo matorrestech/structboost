@@ -38,9 +38,9 @@ Contributions are always welcome! If you have any ideas or suggestions to improv
 
 ## Contact
 
-Full Name: Matheus Torres
-Email: mt@matheustorres.com
-Website/Portfolio: [https://matheustorres.com](https://matheustorres.com)
+Full Name: Matheus Torres<br/>
+Email: mt@matheustorres.com<br/>
+Website/Portfolio: [https://matheustorres.com](https://matheustorres.com)<br/>
 Phone/WhatsApp: +44 07415 952646
 
 I encourage you to share your impressions about any detail of the project that you find unique or especially captivating. I am fully available for an in-depth dialogue about these points and open to collaborating on future projects.
