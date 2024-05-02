@@ -1,4 +1,4 @@
-## Structboost: Elevating Web Design to New Heights
+### Structboost: Elevating Web Design to New Heights
 
 Structboost is a modern and innovative web project that aims to provide a high-quality, responsive, and user-friendly interface. The project is designed with a focus on simplicity, elegance, and functionality. It features a variety of components, from a responsive navigation bar to a dynamic post card layout, all of which are designed to provide a seamless user experience.
 
